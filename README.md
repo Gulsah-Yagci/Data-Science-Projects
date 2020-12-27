@@ -4,4 +4,4 @@ You can find my data science projects in this repo.
 
 ## List
 
-1. [Malware Classification]
+1. Malware Classification
